@@ -1,0 +1,43 @@
+#sidebar_container {
+    width: 25%;
+    height: 660px;
+    background-color: #FFF;
+    float: right;
+    border-left: 2px solid #ECECEC;
+    box-sizing: border-box;
+}
+
+#sidebar_customize {
+    width: 100%;
+    height: 50px;
+    background-color: #EEB560;
+    text-align: center;
+}
+
+#sidebar_customize h2 {
+    font-size: 18px;
+    margin: 0;
+    color: #FFF;
+    padding-top: 14px;
+}
+
+#sidebar_options {
+
+}
+
+#sidebar_options #number_selector {
+    border: none;
+    width: 34px;
+    font-size: 16px;
+}
+
+#sidebar_options #wifi_checkbox {
+    padding-top: 5px;
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+}
+
+#sidebar_items {
+    margin-top: 100px;
+}
